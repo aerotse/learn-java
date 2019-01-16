@@ -4,7 +4,7 @@ package org.wcong.test.algorithm.dp;
  * give two string a,b find the longest common sub sequence
  * Created by wcong on 2017/3/31.
  */
-public class LongestCommonSubSequence {
+class LongestCommonSubSequence {
 
     public static void main(String[] args) {
 
